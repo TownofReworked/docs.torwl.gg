@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_docs=globalThis.webpackChunkmy_docs||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Website Launch","permalink":"/docs.torwl.gg/blog/first-release","unlisted":false,"date":"2026-01-01T00:00:00.000Z"}]}')}}]);

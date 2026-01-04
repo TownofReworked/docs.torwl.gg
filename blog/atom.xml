@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://townofreworked.github.io/docs.torwl.gg/blog</id>
+    <title>TOR-W: L Wiki Blog</title>
+    <updated>2026-01-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://townofreworked.github.io/docs.torwl.gg/blog"/>
+    <subtitle>TOR-W: L Wiki Blog</subtitle>
+    <icon>https://townofreworked.github.io/docs.torwl.gg/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Website Launch]]></title>
+        <id>https://townofreworked.github.io/docs.torwl.gg/blog/first-release</id>
+        <link href="https://townofreworked.github.io/docs.torwl.gg/blog/first-release"/>
+        <updated>2026-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Website Initial Launch]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="website-initial-launch">Website Initial Launch<a href="https://townofreworked.github.io/docs.torwl.gg/blog/first-release#website-initial-launch" class="hash-link" aria-label="Direct link to Website Initial Launch" title="Direct link to Website Initial Launch" translate="no">​</a></h2>
+<p>This is the initial launch of the guide website for the Among Us mod, Town Of Re-Worked: Launchpad (TOR-W: L).</p>
+<p>This marks the day that I have made a full guide on roles, and how to use them. I also made a main website where you can configure options and many other cool stuff. It also has the roles listed and when they were added, but this website is the only website with an official roadmap.</p>]]></content>
+        <author>
+            <name>Angel (aka Andries)</name>
+        </author>
+        <category label="Launch" term="Launch"/>
+    </entry>
+</feed>

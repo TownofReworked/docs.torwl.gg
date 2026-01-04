@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TOR-W: L Wiki Blog</title>
+        <link>https://townofreworked.github.io/docs.torwl.gg/blog</link>
+        <description>TOR-W: L Wiki Blog</description>
+        <lastBuildDate>Thu, 01 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Website Launch]]></title>
+            <link>https://townofreworked.github.io/docs.torwl.gg/blog/first-release</link>
+            <guid>https://townofreworked.github.io/docs.torwl.gg/blog/first-release</guid>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Website Initial Launch]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="website-initial-launch">Website Initial Launch<a href="https://townofreworked.github.io/docs.torwl.gg/blog/first-release#website-initial-launch" class="hash-link" aria-label="Direct link to Website Initial Launch" title="Direct link to Website Initial Launch" translate="no">​</a></h2>
+<p>This is the initial launch of the guide website for the Among Us mod, Town Of Re-Worked: Launchpad (TOR-W: L).</p>
+<p>This marks the day that I have made a full guide on roles, and how to use them. I also made a main website where you can configure options and many other cool stuff. It also has the roles listed and when they were added, but this website is the only website with an official roadmap.</p>]]></content:encoded>
+            <category>Launch</category>
+        </item>
+    </channel>
+</rss>

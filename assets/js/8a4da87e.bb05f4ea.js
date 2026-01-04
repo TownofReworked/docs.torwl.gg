@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_docs=globalThis.webpackChunkmy_docs||[]).push([[689],{8171(s){s.exports=JSON.parse('{"tags":[{"label":"Launch","permalink":"/docs.torwl.gg/blog/tags/launch","description":"The website updates.","count":1}]}')}}]);
