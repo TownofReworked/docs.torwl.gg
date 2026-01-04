@@ -1,0 +1,66 @@
+.tag {
+  display: inline-block;
+  padding: 2px 8px;
+  margin-left: 6px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* NEW – pulsing */
+.new {
+  background: #4caf50;
+  color: white;
+  animation: pulse 1.6s infinite;
+}
+
+/* BETA – glow */
+.beta {
+  background: #ff9800;
+  color: black;
+  animation: glow 1.8s ease-in-out infinite alternate;
+}
+
+/* EXPERIMENTAL – shimmer */
+.experimental {
+  background: linear-gradient(
+    110deg,
+    #9c27b0 40%,
+    #e040fb 50%,
+    #9c27b0 60%
+  );
+  background-size: 300% 100%;
+  background-position: -150% 50%;
+  color: white;
+  animation: shimmer 5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.85; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes glow {
+  from { box-shadow: 0 0 4px #ff9800; }
+  to { box-shadow: 0 0 12px #ff9800; }
+}
+
+@keyframes shimmer {
+  /* fully off to the left */
+  0% {
+    background-position: -150% 50%;
+  }
+
+  /* shimmer passes through */
+  35% {
+    background-position: 150% 50%;
+  }
+
+  /* pause while fully off */
+  100% {
+    background-position: 150% 50%;
+  }
+}
